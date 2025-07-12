@@ -1,16 +1,18 @@
-# swapper
+# Swapper
+Swapper is a cross-platform Flutter application designed to make swapping items and organizing community swap events easy, fun, and sustainable. Whether you're looking to exchange books, clothes, gadgets, or household items, Swapper helps you connect with others in your area and trade what you have for what you need.
 
-A new Flutter application.
+## 🚀 Features
+📦 List Items for Swap
+Upload photos, write descriptions, and categorize items you want to exchange.
 
-## Getting Started
+🔍 Browse & Match
+Explore items posted by others, filter by categories or location, and find your perfect swap match.
 
-This project is a starting point for a Flutter application.
+📍 Organize & Join Swap Events
+Create and discover local events for group-based item exchanges — a great way to connect with your community.
 
-A few resources to get you started if this is your first Flutter project:
+💬 Chat System
+In-app messaging makes arranging swaps fast and safe.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛡️ User Profiles & Ratings
+Build trust with community members through verified profiles and feedback after swaps.
